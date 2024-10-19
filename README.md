@@ -10,7 +10,7 @@
 
 - 🛠 **Technologies Used**: HTML, CSS
 
-- 🌟 **My Role**: Frontend Developer – Responsible for the website’s design and implementation of interactive UI elements.
+- 🌟 **My Role**: Frontend Developer 
 
 - 📬 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/nazanin-seyfi-4a1742331/) | [Instagram](https://www.instagram.com/naznin_dev/)
 
