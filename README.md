@@ -1,7 +1,9 @@
 - # salon-avadawebsite
 
 **This is a simple website created using HTML and CSS.**
+
 -You can view the live **demo** here: [Demo Link](https://nazanin-dev.github.io/salon-avadawebsite/).
+
 - 👩‍💻 Developed by Nazanin Seyfi
 
 - 📅 Created on: 2024-10-19
